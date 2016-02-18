@@ -10,15 +10,19 @@
 <title>APK Prueba</title>
 </head>
 <body>
+<?php
 
-<div data-role="page">
+$nombre ="Felipe";
+$apelido ="Rodríguez";
+
+echo '<div data-role="page">
 
   <div data-role="header">
     <h1>Alumnos</h1>
   </div>
 
   <div data-role="main" class="ui-content">
-    <table border='0' class='table table-responsive'>
+    <table border="0" class="table table-responsive">
     	<tr>
     		<td>Felipe Rodríguez</td>
     		<td><a href="mostrar_respuestas.php">Ver Respuestas</a></td>
@@ -36,7 +40,7 @@
     <h1>Proyecto FONDEF ID14I10078</h1>
   </div>
 
-</div>
-
+</div>'
+?>
 </body>
 </html>

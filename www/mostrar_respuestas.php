@@ -113,7 +113,7 @@
      </table>
 
   </div>
-  
+
   <div data-role="footer">
     <h1>Proyecto FONDEF ID14I10078</h1>
   </div>
@@ -127,7 +127,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante parece estar a gusto en este colegio</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -142,7 +142,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante demuestra interes por aprender</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -157,7 +157,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante es reponsable</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -172,7 +172,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante mantiene relaciones de apoyo y colaboración con sus compañeros</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -187,7 +187,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante participa activamente en clase (por ejemplo, hace preguntas, opina, ofrece ayuda)</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -202,7 +202,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante cumple con las normas de convivencia escolar y comportamiento de este colegio</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -217,7 +217,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Cuando trabaja en grupo, el/la estudiante suele tomar la iniciativa y organizar a sus compañeros</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -232,7 +232,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante es persistente con las tareas escolares, aunque éstas sean difíciles</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -247,7 +247,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante usa distintas estrategias para aprender (por ejemplo, anotar palabras nuevas, hacer mapas conceptuales, resúmenes, esquemas</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -262,7 +262,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante planifica sus tareas (por ejemplo, plantea objetivos, pasos a seguir, y organiza sus tiempos)</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -277,7 +277,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante autorregula su aprendizaje (por ejemplo, está atento a posibles errores o incoherencias, monitorea su progreso, busca ayuda cuando no entiende, revisa sus tareas después de terminarlas) </p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -292,7 +292,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante intenta hacer su trabajo a fondo y bien, en lugar de tratar de hacerlo “por cumplir” </p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -307,7 +307,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Este estudiante es capaz de seguir estudios superiores una vez que termine cuarto medio</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -322,7 +322,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Cuando comenzamos una nueva actividad, sé que será capaz de hacerlo bien</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -337,7 +337,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Si este estudiante obtuviera una buena calificación se debería sobretodo a su capacidad y a sus propias habilidades</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -352,7 +352,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Si este estudiante obtuviera una buena calificación se debería fundamentalmente a su propio interés y motivación</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
@@ -367,7 +367,7 @@
 
   <div data-role="main" class="ui-content">
     <p>Si este estudiante obtuviera una buena calificación se debería esencialmente a los apoyos recibidos</p>
-    <a href="#preguntas">Volver</a>
+    
   </div>
 
   <div data-role="footer">
