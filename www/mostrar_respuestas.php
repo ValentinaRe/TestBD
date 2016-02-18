@@ -19,6 +19,10 @@
   </div>
 
   <div data-role="main" class="ui-content">
+ 	<p><b>NU</b> Nunca o casi nunca / <b>AL</b> Algunas veces / <b>AM</b> A menudo / <b>MV</b> Muchas veces / <b>SC</b> Siempre o casi siempre</p>
+  </div>
+
+  <div data-role="main" class="ui-content">
   <p>Alumno(a):Felipe Rodríguez</p>
     <table border='1' class="table table-responsive">
     	<tr>
